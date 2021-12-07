@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "buggytransmitter": "github:ozzie-hunter/buggy#master"
     },
     "files": [
         "main.blocks",
